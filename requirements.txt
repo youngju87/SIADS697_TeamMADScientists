@@ -1,0 +1,8 @@
+xlrd
+pandas
+watermark==2.3.1
+openpyxl
+pandas
+xlrd
+statsmodels==0.13.2
+causalinference==0.1.2
