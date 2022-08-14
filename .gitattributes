@@ -1,0 +1,2 @@
+assets/sabs_1516/SABS_1516.dbf filter=lfs diff=lfs merge=lfs -text
+assets/sabs_1516/SABS_1516.shp filter=lfs diff=lfs merge=lfs -text
