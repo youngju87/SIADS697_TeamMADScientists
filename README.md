@@ -31,15 +31,18 @@ An overview of the directory structure and files:
 <pre>
 ├── Notebooks</br>
 ├── README.md</br>
-├── data</br>
-│   └── processed
 ├── assets</br>
-│   ├── #</br>
-│   └── #</br>
+│   ├── school shapefiles</br>
+│   ├── detroit shapediles</br>
+│   ├── other data</br>
+│   ├── testing data</br>
+│   └── saved data</br>
 └── research</br>
-    ├── ###</br>
-    ├── ###</br>
-    └── ###</br>
+    ├── testing dataframe notebook</br>
+    ├── sydney schwartz notebook</br>
+    ├── thomasfriss notebook</br>
+    ├── robby waite notbook</br>
+    └── justin young notebook</br>
 ├── requirements.txt</br>
 ├── FINAL_BLOG_FULL</br>
 └── FINAL_BLOG_PUBLIC</br>
@@ -49,15 +52,11 @@ An overview of the directory structure and files:
 <p>This is where each of the team members explored the data and examined different models.</p>
 </li>
 <li>
-<strong>data</strong>
-<p>The formatted data that is used in each of the models.</p>
-</li>
-<li>
 <strong>assets</strong>
 <p>The raw data that is used in each of the models.</p>
 </li>
 <li>
-<strong>reports</strong>
+<strong>final notbooks</strong>
 <p>The presentation of the results of each of the models and conclusion of the project.</p>
 </li>
 <li>
