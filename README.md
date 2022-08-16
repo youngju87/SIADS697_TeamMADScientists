@@ -38,11 +38,11 @@ An overview of the directory structure and files:
 │   ├── testing data</br>
 │   └── saved data</br>
 └── research</br>
-    ├── testing dataframe notebook</br>
-    ├── sydney schwartz notebook</br>
-    ├── thomasfriss notebook</br>
-    ├── robby waite notbook</br>
-    └── justin young notebook</br>
+│   ├── testing dataframe notebook</br>
+│   ├── sydney schwartz notebook</br>
+│   ├── thomasfriss notebook</br>
+│   ├── robby waite notbook</br>
+│   └── justin young notebook</br>
 ├── requirements.txt</br>
 └── FINAL_BLOG</br>
 </pre>
