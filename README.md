@@ -11,8 +11,8 @@ Welcome to the <strong>Socioecomomic Segregation in the Detroit Public Schools C
 
 First phase of this project was identifiying open scource data that would be useful to investigate our story by helpign us comparing the schools within 27 different zip code areas that create DPSCD. We settled on using the following resources in our project:
 
-<li>test score data from the DPSCD open data portal</li>
-<li>state and federal per pupil expenditure (PPE)</li>
+<li>Test score data from the DPSCD open data portal</li>
+<li>State and federal per pupil expenditure (PPE)</li>
 <li>GIS open data on school district boundaries within the state of Michigan</li>
 <li>USA census tract areas on median household income</li></br>
 
@@ -44,8 +44,7 @@ An overview of the directory structure and files:
     ├── robby waite notbook</br>
     └── justin young notebook</br>
 ├── requirements.txt</br>
-├── FINAL_BLOG_FULL</br>
-└── FINAL_BLOG_PUBLIC</br>
+└── FINAL_BLOG</br>
 </pre>
 <li>
 <strong>research</strong>
@@ -66,8 +65,7 @@ An overview of the directory structure and files:
 
 ## Running instructions
 
-<em>Explain to potential users how to run/replicate your workflow. If necessary, touch upon the required input data, which secret credentials are required (and how to obtain them), which software tools are needed to run the workflow (including links to the installation instructions), and how to run the workflow.</em>
-
+To and replicate our workflow, simply download the assets folder, our 'Final Blog' file, and requirements.txt file. Upload all into a notebook environment and execute the 'Final Blog' file. Another option can be to simply navigate to this URL: https://deepnote.com/@capstone-team-mad-scientists/MADS-Capstone-Project-e115903d-6f9d-4ba6-a598-8111e36ee3b2 and see our work in a article format. 
 
 ## Citations
 
