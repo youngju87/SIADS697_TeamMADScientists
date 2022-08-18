@@ -19,11 +19,10 @@ First phase of this project was identifiying open scource data that would be use
 These data sources should be availavle in perpituity directly from the original sources via an API. All data used within the final deliverable of the project presented here can be found in this github repository and our Google drive[link].
 
 ## Method and results
-<em>
-First, introduce and motivate your chosen method, and explain how it contributes to solving the research question/business problem.
 
-Second, summarize your results concisely. Make use of subheaders where appropriate.
-</em>
+This study encompasses a large amount of data focused on the Detroit Metro Area. With advanced data cleaning and analysis, we were equipped to explore correlations, insights, and statistical evidence on whether or not socioeconomic segregation can be seen between schools, within zip code boundaries. Finding out if segregation exists, we can help parents and students make an informed decision on what schools to go to. Additionally, this information could inform district authorities to help gain a better understanding of what areas, if any, need intervention to stop the continuation of socioeconomic segregation that could have dire effects on the DPSCD.
+
+Our findings resulted in unexpected results. Though the results may suggest DPCSD is making adjustments for the benefit of the total community, rather than feeding into inequality in socioeconomic resources. Our findings did result with effect sizes that were too small to be detected and data not giving us direct insight into the relationships of interest to confirm that DPCSD is making decisions to support the community as best it can. 
 
 ## Repository overview
 
