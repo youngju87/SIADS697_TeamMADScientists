@@ -1,7 +1,7 @@
 ### SIADS697_TeamMADScientists
 Capstone Project for Team MAD Scientsts
 
-<img src="https://upload.wikimedia.org/wikipedia/en/2/21/Detroit_Public_Schools_logo.svg" alt="Detroit Public Schools Community District" width="200"/> X <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png" alt="University of Michigan" width="200"/>
+<img src="https://www.detroitk12.org/site/handlers/filedownload.ashx?moduleinstanceid=13758&dataid=8921&FileName=DPSCD%20Logo%20NoTag%20-%202%20Color%20HiRes%20-%20RGB-HEX.jpg" alt="Detroit Public Schools Community District" width="200"/> X <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png" alt="University of Michigan" width="200"/>
 
 # Socioeconomic Segregation in the Detroit Public Schools Community District (DPSCD)
 
