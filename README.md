@@ -30,6 +30,8 @@ An overview of the directory structure and files:
 <pre>
 ├── Notebooks</br>
 ├── README.md</br>
+├── images</br>
+│   └── ate image</br>
 ├── assets</br>
 │   ├── school shapefiles</br>
 │   ├── detroit shapediles</br>
