@@ -63,6 +63,10 @@ An overview of the directory structure and files:
 <strong>requirements</strong>
 <p>This is a list of all of a project's dependencies. This includes the libraries needed and the specific version of each dependency.</p>
 </li>
+<li>
+<strong>images</strong>
+<p>This image folder for report graphics.</p>
+</li>
 
 ## Running instructions
 
