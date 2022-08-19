@@ -31,6 +31,8 @@ An overview of the directory structure and files:
 ├── Notebooks</br>
 ├── README.md</br>
 ├── images</br>
+│   ├── umich image</br>
+│   ├── dpscd image</br>
 │   └── ate image</br>
 ├── assets</br>
 │   ├── school shapefiles</br>
