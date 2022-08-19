@@ -78,13 +78,21 @@ To and replicate our workflow, simply download the assets folder, our 'Final Blo
 
 Broer, M., Bai, Y., Fonseca, F. (2019). <em>Socioeconomic Inequality and Educational Outcomes: An Introduction. In: Socioeconomic Inequality and Educational Outcomes.</em> IEA Research for Education, vol 5. Springer, Cham. https://doi.org/10.1007/978-3-030-11991-1_1</br>
 
+CSLB, (2022). <em>Home.csulb.edu. 2022. Tests of Statistical Significance.</em> Retrieved August 16, 2022, from https://home.csulb.edu/~msaintg/ppa696/696stsig.htm</br>
+
 Monarrez, T. (2018, September 17). <em>Do New York City's school attendance boundaries encourage racial and ethnic segregation?</em> Urban Institute. Retrieved June 26, 2022, from https://www.urban.org/urban-wire/do-new-york-citys-school-attendance-boundaries-encourage-racial-and-ethnic-segregation</br>
+
+Molnar, C., 2022. 8.5 Permutation Feature Importance | Interpretable Machine Learning. Christophm.github.io. Retrieved August 16, 2022, from https://christophm.github.io/interpretable-ml-book/feature-importance.html
+
+Navas, J. (2022, Feb 8). <em>What is hyperparameter tuning?</em> Anyscale. Retrieved August 18, 2022, from https://www.anyscale.com/blog/what-is-hyperparameter-tuning</br>
 
 Owens, A. (2018). <em>Income segregation between school districts and inequality in students ... American Sociological Association.</em> Retrieved June 26, 2022, from https://www.asanet.org/sites/default/files/attach/journals/jan18soefeature.pdf</br>   
 
 Papay JP, Murnane RJ, Willett JB. <em>Income-Based Inequality in Educational Outcomes: Learning From State Longitudinal Data Systems.</em> Educational Evaluation and Policy Analysis. 2015;37(1_suppl):29S-52S. doi:10.3102/0162373715576364</br>
 
-Reardon, S. (2019, May 14). <em>Income inequality affects our children's educational opportunities. Equitable Growth.</em> Retrieved June 26, 2022, from https://equitablegrowth.org/income-inequality-affects-our-childrens-educational-opportunities/ 
+Reardon, S. (2019, May 14). <em>Income inequality affects our children's educational opportunities. Equitable Growth.</em> Retrieved June 26, 2022, from https://equitablegrowth.org/income-inequality-affects-our-childrens-educational-opportunities/</br>
+
+Verma, Y., 2022. <em>A Complete Guide to Causal Inference in Python.</em> Analytics India Magazine. Retrieved August 16, 2022, from https://analyticsindiamag.com/a-complete-guide-to-causal-inference-in-python/
 
 ## About
 #####
