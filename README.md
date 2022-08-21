@@ -80,6 +80,9 @@ Broer, M., Bai, Y., Fonseca, F. (2019). <em>Socioeconomic Inequality and Educati
 
 CSLB, (2022). <em>Home.csulb.edu. 2022. Tests of Statistical Significance.</em> Retrieved August 16, 2022, from https://home.csulb.edu/~msaintg/ppa696/696stsig.htm</br>
 
+Koehrsen W. (2018, Jan 9). <em>Hyperparameter Tuning the Random Forest in Python</em>
+Towards Data Science. Retrieved August 19, 2022, from https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74</br>
+
 Monarrez, T. (2018, September 17). <em>Do New York City's school attendance boundaries encourage racial and ethnic segregation?</em> Urban Institute. Retrieved June 26, 2022, from https://www.urban.org/urban-wire/do-new-york-citys-school-attendance-boundaries-encourage-racial-and-ethnic-segregation</br>
 
 Molnar, C., 2022. 8.5 Permutation Feature Importance | Interpretable Machine Learning. Christophm.github.io. Retrieved August 16, 2022, from https://christophm.github.io/interpretable-ml-book/feature-importance.html
